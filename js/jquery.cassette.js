@@ -47,7 +47,7 @@
 	
 	$.Cassette.defaults 	= {
 		// song names. Assumes the path of each song is songs/name.filetype
-		songs			: [ 'Hebe1'],
+		songs			: [ 'Hebe1', 'Hebe2'],
 		fallbackMessage	: 'HTML5 audio not supported',
 		// initial sound volume
 		initialVolume	: 0.7
